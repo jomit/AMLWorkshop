@@ -9,12 +9,12 @@
 ### Excercises/Labs
 
 - Data
-    - [1-Data Pipeline Setup]() 
+    - [1-Data Pipeline Setup](https://github.com/jomit/AMLWorkshop/blob/master/1-DataPipeline/README.md) 
 - Machine Learning
-    - [2-Environment Setup]()
-    - [3-Data Exploration]()
-    - [4-Training]()
-    - [5-Evaluation]()
+    - [2-Environment Setup](https://github.com/jomit/AMLWorkshop/blob/master/2-EnvironmentSetup/README.md)
+    - [3-Data Exploration](https://github.com/jomit/AMLWorkshop/blob/master/3-DataExploration/README.md)
+    - [4-Training](https://github.com/jomit/AMLWorkshop/blob/master/4-Training/README.md)
+    - [5-Evaluation](https://github.com/jomit/AMLWorkshop/blob/master/5-Evaluation/README.md)
 - Operationalization
-    - [6-Deployment Pipeline]()
+    - [6-Deployment Pipeline](https://github.com/jomit/AMLWorkshop/blob/master/6-DeploymentPipeline/README.md)
 
