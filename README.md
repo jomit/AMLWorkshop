@@ -1,16 +1,16 @@
 # Azure Machine Learning Services - Industry Hackfest
 
-    - TODO end-to-end flow diagram
+    TODO end-to-end flow diagram
 
 ### Business Case Description
 
-    - [Predictive Maintenance]...
+    TODO Predictive Maintenance use case ...
 
 ### Prerequisites
 
-    - Active [Azure Subscription](https://azure.microsoft.com/en-us/free/)
+- Active [Azure Subscription](https://azure.microsoft.com/en-us/free/)
 
-    - Install [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
+- Install [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
 
 ### Excercises/Labs
 
