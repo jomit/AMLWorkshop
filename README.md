@@ -4,7 +4,13 @@
 
 ### Business Case Description
 
-    - TODO
+    - [Predictive Maintenance]...
+
+### Prerequisites
+
+    - Active [Azure Subscription](https://azure.microsoft.com/en-us/free/)
+
+    - Install [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
 
 ### Excercises/Labs
 
