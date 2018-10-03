@@ -24,3 +24,22 @@
 - Operationalization
     - [6-Deployment Pipeline](https://github.com/jomit/AMLWorkshop/blob/master/6-DeploymentPipeline/README.md)
 
+
+### Additional Resources
+
+- [Azure Machine Learning service strategy and direction](https://azure.microsoft.com/en-us/blog/azure-ai-making-ai-real-for-business/)
+
+- [How does Azure Machine Learning service work](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-azure-machine-learning-architecture)
+
+- [Model management with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-model-management-and-deployment)
+
+- [Experimentation using Azure Machine Learning](https://azure.microsoft.com/en-us/blog/experimentation-using-azure-machine-learning/)
+
+- [Automated ML capability in Azure Machine Learning](https://azure.microsoft.com/en-us/blog/announcing-automated-ml-capability-in-azure-machine-learning/)
+
+- [Training models using Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-set-up-training-targets)
+
+- [Deploy Models using Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-deploy-and-where)
+
+
+
