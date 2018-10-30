@@ -1,10 +1,10 @@
 # Azure Machine Learning Services - Industry Hackfest
 
-    TODO end-to-end flow diagram
+![Architecture](https://raw.githubusercontent.com/jomit/AMLWorkshop/master/images/architecture.png)
 
 ### Business Case Description
 
-    TODO Predictive Maintenance use case ...
+Predictive maintenance (PdM) is a popular application of predictive analytics that can help businesses in several industries achieve high asset utilization and savings in operational costs. This workshop provides step by steps guidance to develop and deploy PdM solutions using Microsoft Azure AI platform technology. For more detail guide around business case and data requirements please refer to [Azure AI guide for predictive maintenance solutions](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/cortana-analytics-playbook-predictive-maintenance)
 
 ### Prerequisites
 
@@ -27,19 +27,28 @@
 
 ### Additional Resources
 
-- [Azure Machine Learning service strategy and direction](https://azure.microsoft.com/en-us/blog/azure-ai-making-ai-real-for-business/)
+- Overall Strategy
 
-- [How does Azure Machine Learning service work](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-azure-machine-learning-architecture)
+    - [Azure Machine Learning service strategy and direction](https://azure.microsoft.com/en-us/blog/azure-ai-making-ai-real-for-business/)
 
-- [Model management with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-model-management-and-deployment)
+- Documentation 
 
-- [Experimentation using Azure Machine Learning](https://azure.microsoft.com/en-us/blog/experimentation-using-azure-machine-learning/)
+    - [How does Azure Machine Learning service work](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-azure-machine-learning-architecture)
+    - [Model management with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-model-management-and-deployment)
+    - [Experimentation using Azure Machine Learning](https://azure.microsoft.com/en-us/blog/experimentation-using-azure-machine-learning/)
+    - [Training models using Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-set-up-training-targets)
+    - [Deploy Models using Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-deploy-and-where)
 
-- [Automated ML capability in Azure Machine Learning](https://azure.microsoft.com/en-us/blog/announcing-automated-ml-capability-in-azure-machine-learning/)
+- Tutorials
 
-- [Training models using Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-set-up-training-targets)
+    - [Getting Started Notebooks](https://github.com/Azure/MachineLearningNotebooks/tree/master/01.getting-started)
 
-- [Deploy Models using Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-deploy-and-where)
+- Automated Machine Learning
 
+    - [Automated ML capability in Azure Machine Learning](https://azure.microsoft.com/en-us/blog/announcing-automated-ml-capability-in-azure-machine-learning/)
+
+- FPGA and Project Brainwave
+
+    - [Deploy to FPGA on Azure](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-deploy-fpga-web-service)
 
 
