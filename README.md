@@ -39,9 +39,10 @@ Predictive maintenance (PdM) is a popular application of predictive analytics th
     - [Training models using Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-set-up-training-targets)
     - [Deploy Models using Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-deploy-and-where)
 
-- Tutorials
+- Tutorials/SDK's
 
     - [Getting Started Notebooks](https://github.com/Azure/MachineLearningNotebooks/tree/master/01.getting-started)
+    - [Azure Machine Learning SDK for Python](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/intro?view=azure-ml-py)
 
 - Automated Machine Learning
 
