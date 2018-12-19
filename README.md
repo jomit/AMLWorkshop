@@ -52,4 +52,10 @@ Predictive maintenance (PdM) is a popular application of predictive analytics th
 
     - [Deploy to FPGA on Azure](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-deploy-fpga-web-service)
 
+- On the Edge
+
+    - https://github.com/Microsoft/EdgeML
+    
+    - https://github.com/Microsoft/ELL
+
 
